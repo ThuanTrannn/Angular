@@ -7,6 +7,6 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './exercise7.component.html',
   styleUrl: './exercise7.component.scss'
 })
-export class Exercise7Component {
+export class Exercise7Component   {
   
 }
